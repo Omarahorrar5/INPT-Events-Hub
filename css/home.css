@@ -235,6 +235,7 @@ body {
 
 .btn-details:hover {
     background: #3a56c7;
+    color: white;
     transform: translateY(-2px);
 }
 
